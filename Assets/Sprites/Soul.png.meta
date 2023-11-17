@@ -488,7 +488,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Soul_0: -7260111474371800604
+      Soul_1: 3714793262853902631
+      Soul_10: -490080862490344397
+      Soul_11: -1673428065257853125
+      Soul_12: -2577986601303795370
+      Soul_13: 4187821928101169922
+      Soul_14: -1052429949293981073
+      Soul_15: -8031777980782208857
+      Soul_2: 5261866064750109813
+      Soul_3: 2839188522358434670
+      Soul_4: 5949046499566718118
+      Soul_5: 8405376442034624970
+      Soul_6: 6662264921088808745
+      Soul_7: -5853284491164530161
+      Soul_8: 797447436697986132
+      Soul_9: -7594366717351764141
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

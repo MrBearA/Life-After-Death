@@ -25,6 +25,10 @@ public class PlayerMovement : MonoBehaviour
     // FixedUpdate Method
     public void FixedUpdate()
     {
+        if (DialogManager.isActive == true)
+        {
+            return; 
+        }
 
         if (moveInput != Vector2.zero)
         {
